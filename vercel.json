@@ -9,6 +9,10 @@
     ],
     "routes": [
         {
+            "src": "/assets/(.*)",
+            "dest": "/public/assets/$1"
+        },
+        {
             "src": "/(.*)",
             "dest": "public/index.php"
         }
