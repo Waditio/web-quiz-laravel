@@ -1,7 +1,11 @@
 {
     "version": 2,
     "framework": null,
-    "cleanUrls": true,
+    "functions": {
+        "api/index.php": {
+            "runtime": "vercel-php@0.7.3"
+        }
+    },
     "routes": [
         {
             "src": "/build/(.*)",
@@ -9,7 +13,7 @@
         },
         {
             "src": "/(.*)",
-            "dest": "/public/index.php"
+            "dest": "/api/index.php"
         }
     ]
 }
