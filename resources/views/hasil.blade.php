@@ -41,7 +41,7 @@
 
                 <div class="d-grid gap-2">
                     <a href="/dashboard" class="btn btn-primary btn-lg rounded-pill px-4">Kembali ke Dashboard</a>
-                    <a href="/logout" class="btn btn-outline-danger btn-sm border-0 mt-2">Keluar Sistem</a>
+                    <a href="/logout" class="btn btn-outline-danger btn-sm border-0 mt-2">Keluar</a>
                 </div>
             </div>
         </div>

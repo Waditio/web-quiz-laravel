@@ -87,7 +87,7 @@
 <body>
     <nav class="navbar navbar-dark mb-5 p-3">
         <div class="container d-flex justify-content-between">
-            <span class="navbar-brand">🧠 KUIS BERPIKIR KOMPUTASIONAL</span>
+            <span class="navbar-brand">KUIS BERPIKIR KOMPUTASIONAL</span>
             <a href="/logout" class="btn btn-outline-light btn-sm rounded-pill px-3">Keluar</a>
         </div>
     </nav>
