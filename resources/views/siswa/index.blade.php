@@ -10,12 +10,12 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
     <div class="container">
-        <a class="navbar-brand fw-bold" href="/dashboard">🏠 Kembali ke Dashboard</a>
+        <a class="navbar-brand fw-bold" href="/dashboard">Kembali ke Dashboard</a>
     </div>
 </nav>
 
 <div class="container my-5">
-    <h2 class="fw-bold mb-4">📋 Modul CRUD: Data Presensi Siswa</h2>
+    <h2 class="fw-bold mb-4">Presensi Siswa</h2>
 
     @if ($errors->any())
         <div class="alert alert-danger alert-dismissible fade show" role="alert">
